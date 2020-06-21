@@ -86,7 +86,7 @@ module.exports = {
       template: "./src/pages/another.html",
       inject: true,
       chunks: ["index", "another"],
-      filename: "another.html",
+      filename: "another",
     }),
   ],
 };
